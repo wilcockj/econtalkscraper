@@ -1,0 +1,8 @@
+*~
+*.mp3
+/.env
+/venv
+/downloads
+/econ.csv
+/econtalk.xml
+/progress.txt
